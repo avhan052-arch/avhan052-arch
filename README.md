@@ -49,20 +49,22 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/https://github.com/avhan052-arch/https://github.com/avhan052-arch/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/avhan052-arch/avhan052-arch/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/avhan052-arch.https://github.com/avhan052-arch&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=avhan052-arch.avhan052-arch&"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/avhan052-arch/https://github.com/avhan052-arch/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/avhan052-arch/https://github.com/avhan052-arch/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/https://github.com/avhan052-arch/https://github.com/avhan052-arch/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avhan052-arch/avhan052-arch/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avhan052-arch/avhan052-arch/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/avhan052-arch/avhan052-arch/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
