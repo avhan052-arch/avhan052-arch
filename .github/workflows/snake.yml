@@ -22,6 +22,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: avhan052-arch
+          colors: "github"
+          area: true
+          format: svg
           outputs: dist/snake.svg?palette=github-dark
 
 

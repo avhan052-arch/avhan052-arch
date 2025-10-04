@@ -22,6 +22,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: avhan052-arch
+          colors: "github"
+          area: true
+          format: svg
 
 
       - name: push pacman-contribution-graph.svg to the output branch
