@@ -47,8 +47,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/avhan052-arch/avhan052-arch/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -58,8 +56,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avhan052-arch/avhan052-arch/output/pacman-contribution-graph-dark.svg">
